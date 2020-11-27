@@ -1,7 +1,7 @@
 
 ## Project Summary
 
-- Based on people's Spotify listening history and artists preferences.A website for music lover to get personalized up-to-date concert ticket information 
+- Based on people's Spotify listening history and artists preferences. A website for music lover to get personalized up-to-date concert ticket information 
 
 ### Technologies Used:
 
